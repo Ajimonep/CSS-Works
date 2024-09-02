@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(7, 7, 7);
+
+}
+#main{
+    color:white ;
+    text-align: center;
+    text-decoration: underline;
+ 
+}
+#second{
+    color: blue;
+}

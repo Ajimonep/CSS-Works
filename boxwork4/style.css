@@ -1,0 +1,41 @@
+.border{
+    border: 2px solid black;
+}
+.first{
+    
+    height: 50px;
+    width: 30vw;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second{
+     
+    margin-top: 300px;
+    width: 30vw;
+    height: 50px;
+    text-align: center ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.third{
+    margin-top: 150px;
+    width: 20vw;
+    height: 50px;
+    text-align: center;
+}
+.fourth{
+    margin-top: 200px;
+    margin-left: 1100px;
+    width: 20vw;
+    height: 50px;
+    text-align: center;
+}
+.fifth{
+    margin-top:350;
+    width: 20vw;
+    height:50px ;
+    margin-left: auto;
+    margin-right: auto;
+}
